@@ -8,7 +8,7 @@ Actually this is a normal school(university) project, i would love to t better.
 
 Anyway let's we go to the this project :)
 
-Firstly i did use **HTML CSS ** and **PHP** (beginner level)
+Firstly i did use **HTML CSS** and **PHP** (beginner level)
 
 Goals:
 
