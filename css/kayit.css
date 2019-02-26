@@ -1,0 +1,22 @@
+.icerik{
+  width: 895px;
+  float: left;
+  margin-left: 5px;
+  border:1px solid black;
+}
+form{
+  padding-left: 30px;
+  padding-top: 20px;
+  font-family: sans-serif;
+}
+.form{
+
+  font-size: 16px;
+  height: device-height;
+  width: 450px;
+  float: left;
+}
+.form2{
+  width: 280px;
+  margin: auto;
+}

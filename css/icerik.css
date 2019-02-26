@@ -1,0 +1,55 @@
+.duyurular{
+  list-style-type: none;
+}
+.duyurular ul{
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+
+}
+.duyurular li a {
+  display: inline-block;
+  color: black;
+  text-align: left;
+  padding: 14px 20px;
+  width: 855px;
+  background-image:url('../images/color.gif');
+  border-bottom: 1px dotted black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.duyurular li a:hover{border-radius: 5px 5px;}
+
+.icerik1{
+  background-color: #f2f2f2;
+  width: 445px;
+  height: device-height;
+  color: black;
+  margin-top: 5px;
+  float: left;
+  text-decoration: none;
+  font-size: 18px;
+}
+.icerik1 a:hover{color: red;}
+
+.icerik2{
+  list-style-type: none;
+}
+.icerik2 ul{
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+
+}
+.icerik2 li a {
+  display: inline-block;
+  color: black;
+  text-align: left;
+  padding: 14px 20px;
+  width: 405px;
+  background-image:#f2f2f2;
+  border-bottom: 1px dotted black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.icerik2 li a:hover{border-radius: 5px 5px; background-color: lightblue;}

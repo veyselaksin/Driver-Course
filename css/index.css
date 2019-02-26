@@ -1,0 +1,170 @@
+.topinfo{
+  height: device-height;
+  width: devide-widht;
+  margin-bottom: 5px;
+  overflow: hidden;
+}
+.topright{
+  text-decoration: none;
+  text-align: right;
+  align-items: center;
+  padding-right: 30px;
+  margin-top: 0px;
+  float: right;
+}
+.topleft{
+  text-align: left;
+  padding-left: 30px;
+  overflow: hidden;
+}
+.header{
+    height: 100px;
+    width: device-width;
+    height: device-height;
+}
+.logo{
+  height: 100px;
+  width: 240px;
+  float: left;
+}
+#sagresim{
+  float: right;
+  overflow: hidden;
+  height: 90px;
+  width: 728px;
+  padding-right: 100px;
+}
+button{
+  float: right;
+  height: 40px;
+  width: 90px;
+  padding-right: 10px;
+  margin-right: 30px;
+}
+.menunavbar{
+  margin-bottom: 2px;
+}
+
+.content{
+  margin-top: 5px;
+  height: device-height;
+  width: device-width;
+
+}
+.leftmenu{
+  height: device-height;
+  width: 300px;
+  float: left;
+  list-style-type: none;
+}
+.ara{
+  background-color: #f2f2f2;
+  height: device-width;
+  float: left;
+  width: 300px;
+}
+form.search input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 50%;
+    background: #f1f1f1;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+form.search button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.icerik{
+  width: 895px;
+  float: left;
+  margin-left: 5px;
+}
+
+.sabit{float: right !important;}
+.footer{
+  background-color: #333333;
+  width: 1500px;
+  height: device-height;
+  color: white;
+  font-size: 18px;
+  font-family: cursive;
+  overflow:hidden;
+  float: left;
+  margin-top:5px;
+  text-align: center;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 20px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+#a{
+text-decoration: none;
+font-size: 16px;
+color:black;
+}
+
+.genelbilgiler_tablosu ul{
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #f2f2f2;
+  list-style-type: none;
+}
+
+.genelbilgiler_tablosu li a {
+display: inline-block;
+color: black;
+text-align: left;
+padding: 14px 20px;
+width: 260px;
+background-color: #f2f2f2;
+border-bottom: 1px dotted black;
+text-decoration: none;
+list-style-type: none;
+
+}
+
+.genelbilgiler_tablosu li a:hover {
+background-color: lightblue;
+border-radius: 5px 5px;
+}
+.rightmenu{
+height: device-height;
+width:300px;
+float: right;
+list-style-type: none;
+}
+.link{
+  text-decoration: none black;
+}
