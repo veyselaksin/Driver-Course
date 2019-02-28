@@ -1,8 +1,8 @@
 # Driver-Course
-Basic web cite (HTML,CSS,PHP)
+Basic website (HTML,CSS,PHP)
 
 
-Hello everyone, this webcite is so basicaly **because my first try** and so there is more missing.
+Hello everyone, this website is so basicaly **because my first try** and so there is more missing.
 
 Actually this is a normal school(university) project, i would love to t better.
 
@@ -16,6 +16,6 @@ Goals:
 
 **2)** Customer after the 1 step, it's going to the Driving Licanse building, it sign the documents and sign up succsesfull :))
 
-**3)** this webcite just for a pre-registration
+**3)** this website just for a pre-registration
 
 thank you ... :)
