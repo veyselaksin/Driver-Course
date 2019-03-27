@@ -10,8 +10,9 @@ Bu web sitesinde sürücü kursuna kayıt olmak isteyen herhangi bir kişi bilgi
 
 Daha doğrusu sistem bir ehliyet randevu sistemi gibi düşünülebilir.
 
-*Kullanıcı bilgilerini görebilir, değiştirebilirler, yalnız silme işlemi yapamazlar.*
-*Admin-Personel ise bilgileri görebilir, değiştirebilir,ekleyebilir ve silebilirler*
+*Kullanıcılar bilgilerini görebilir, değiştirebilirler, yalnız silme işlemi yapamazlar.*
+
+*Admin-Personeller ise bilgileri görebilir, değiştirebilir,ekleyebilir ve silebilirler*
 
 Site haritası ise 
   * Admin.php (Admin giriş alanı)
