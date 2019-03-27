@@ -1,21 +1,19 @@
-# Driver-Course
+# Sürücü Kursu web sitesi
 Basic website (HTML,CSS,PHP)
 
 
-Hello everyone, this website is so basicaly **because my first try** and so there is more missing.
+Bu benim ilk web sitem ve programlama dili olarak sadece PHP kullanıldı.
 
-Actually this is a normal school(university) project, i would love to t better.
+Bu web sitesinde sürücü kursuna kayıt olmak isteyen herhangi bir kişi bilgilerini göndererek ön kayıt oluşturabilecekler. 
 
-Anyway let's we go to the this project :)
+Ön kayıt oluştulduktan sonra kullanıcıya mail veyahut SMS ile bilgi verilip hangi gün gelebileceklerine dair bir randevu oluşturulur.
 
-Firstly i did use **HTML CSS** and **PHP** (beginner level)
+Daha doğrusu sistem bir ehliyet randevu sistemi gibi düşünülebilir.
 
-Goals:
+*Kullanıcı bilgilerini görebilir, değiştirebilirler, yalnız silme işlemi yapamazlar.*
+*Admin-Personel ise bilgileri görebilir, değiştirebilir,ekleyebilir ve silebilirler*
 
-**1)** Customer is register our webcite and it will look at the first it information **(NAME, SURNAME, DRIVING LICANSE,EDUCATION STATUS ,so on.)**
-
-**2)** Customer after the 1 step, it's going to the Driving Licanse building, it sign the documents and sign up succsesfull :))
-
-**3)** this website just for a pre-registration
-
-thank you ... :)
+Site haritası ise 
+  * Admin.php (Admin giriş alanı)
+  * index.php main sayfamız
+  * kullanıcı giriş ve kayıt sekmesi ile kayıt veyahut giriş yapılabilir.
